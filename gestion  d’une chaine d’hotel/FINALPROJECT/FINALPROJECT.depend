@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1651173436 source:c:\users\emna\onedrive\documents\codeblock\finalproject\client.cpp
+	"client.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1651260393 c:\users\emna\onedrive\documents\codeblock\finalproject\client.h
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"utilisateur.h"
+
+1651261183 c:\users\emna\onedrive\documents\codeblock\finalproject\utilisateur.h
+	<iostream>
+	<string>
+	<iomanip>
+	<istream>
+	<fstream>
+
+1651204612 source:c:\users\emna\onedrive\documents\codeblock\finalproject\date.cpp
+	"date.h"
+	<string>
+
+1651243462 c:\users\emna\onedrive\documents\codeblock\finalproject\date.h
+	<iostream>
+	<string>
+	<iomanip>
+	<istream>
+	<fstream>
+
+1651214364 source:c:\users\emna\onedrive\documents\codeblock\finalproject\entite.cpp
+	"entite.h"
+
+1651260892 c:\users\emna\onedrive\documents\codeblock\finalproject\entite.h
+	<iostream>
+	<string>
+	"hotel.h"
+	<iomanip>
+	<istream>
+	<vector>
+	<fstream>
+
+1651203956 source:c:\users\emna\onedrive\documents\codeblock\finalproject\facture.cpp
+	"facture.h"
+
+1651204558 c:\users\emna\onedrive\documents\codeblock\finalproject\facture.h
+	<iostream>
+	<string>
+	<istream>
+	<ctime>
+	"date.h"
+	"client.h"
+
+1651243377 source:c:\users\emna\onedrive\documents\codeblock\finalproject\hotel.cpp
+	"hotel.h"
+	<vector>
+
+1651261090 c:\users\emna\onedrive\documents\codeblock\finalproject\hotel.h
+	<string>
+	<fstream>
+	<iostream>
+	<istream>
+	<vector>
+	"entite.h"
+
+1651236241 source:c:\users\emna\onedrive\documents\codeblock\finalproject\reservation.cpp
+	"reservation.h"
+
+1651261592 c:\users\emna\onedrive\documents\codeblock\finalproject\reservation.h
+	"client.h"
+	"facture.h"
+	"date.h"
+	"service.h"
+	<iostream>
+	<string>
+	<istream>
+	<vector>
+	<ctime>
+	"date.h"
+	"entite.h"
+	"client.h"
+
+1651261554 c:\users\emna\onedrive\documents\codeblock\finalproject\service.h
+	<iostream>
+	<string>
+	<istream>
+	<iomanip>
+	<fstream>
+	<vector>
+
+1651172410 source:c:\users\emna\onedrive\documents\codeblock\finalproject\service.cpp
+	"service.h"
+
+1651236241 source:c:\users\emna\onedrive\documents\codeblock\finalproject\utilisateur.cpp
+	"utilisateur.h"
+	"reservation.h"
+	"hotel.h"
+	<vector>
+
+1651226208 source:c:\users\emna\onedrive\documents\codeblock\finalproject\main.cpp
+	<iostream>
+	<string.h>
+	<istream>
+	<ctime>
+	"reservation.h"
+	"utilisateur.h"
+	"facture.h"
+	"date.h"
+	"Service.h"
+	"client.h"
+	"entite.h"
+

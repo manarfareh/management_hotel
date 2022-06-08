@@ -1,0 +1,46 @@
+---------------------------------------------------------------------------------------
+Client : 
+CIN:
+7
+Nom:
+7
+Prenom:
+7
+Telephone:
+7
+Email:
+7
+Adresse:
+7
+Entite : 
+identite : 
+4
+type : 
+4
+etage : 
+4
+Numero : 
+4
+Prix: 
+4
+Capacite : 
+4
+status : 
+1
+Nombre de jour: 
+7
+Date d'arrivee : 
+
+7/7/7
+Date de depart : 
+
+7/7/7
+services : 
+Gym
+Facture :
+Id de facture : 
+55
+Date de facture : 
+8/8/8
+Montant : 
+34
